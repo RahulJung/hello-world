@@ -1,2 +1,3 @@
 # hello-world
-displays "Hello World"
+My name is Rahul.
+Mymajor is Computer Science.
