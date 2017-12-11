@@ -1,3 +1,3 @@
 # hello-world
 My name is Rahul.
-Mymajor is Computer Science.
+My major is Computer Science.
