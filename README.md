@@ -1,3 +1,1 @@
-# hello-world
-My name is Rahul.
-My major is Computer Science.
+This is my first GitHub repository. It prints Hello World.
