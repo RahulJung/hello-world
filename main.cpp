@@ -1,6 +1,13 @@
 #include<iostream>
+using namespace std;
+
 int main()
 {
-  cout<<"Hello World";
+  hello();
   return 0;
+}
+
+int hello()
+{
+  cout<<"Hello World"<<endl;
 }
